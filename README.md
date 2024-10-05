@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [InstaLens](https://github.com/andresjimenez11/InstaLens)
 
-- 💬 Ask me about **PHP, Laravel, Livewire**
+- 💬 Ask me about **PHP, Laravel, Livewire, React, Fetch API**
 
 - 📫 How to reach me **andresjs1125@outlook.es**
 
