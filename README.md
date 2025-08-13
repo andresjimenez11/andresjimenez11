@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresjimenez11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andresjimenez11&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=9)
+![](https://github-profile-trophy.vercel.app/?username=andresjimenez11&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=10)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
